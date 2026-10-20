@@ -17,7 +17,7 @@
 
 数値標高モデルは、国土地理院の基盤地図情報ダウンロードサービスから取得してください。
 
-- [基盤地図情報ダウンロードサービス](https://fgd.gsi.go.jp/download/menu.php)
+- [基盤地図情報ダウンロードサービス](https://service.gsi.go.jp/kiban/)
 
 ## 動作要件
 
